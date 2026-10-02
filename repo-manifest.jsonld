@@ -232,6 +232,12 @@
       "git:hexsha": "a928c2ae2bee084903f334703ae29b322d04ee7f",
       "repolex:parseStatus": "pending",
       "git:tagName": "v2026.09.25"
+    },
+    {
+      "@id": "https://repolex.ai/r/block/trailblaze/commit/d97b97cf53e07a0b317d4303b6d1d4280dd0ce83",
+      "git:hexsha": "d97b97cf53e07a0b317d4303b6d1d4280dd0ce83",
+      "repolex:parseStatus": "metadata_complete",
+      "git:tagName": "main"
     }
   ]
 }
