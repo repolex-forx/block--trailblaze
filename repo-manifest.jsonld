@@ -242,7 +242,8 @@
     {
       "@id": "https://repolex.ai/r/block/trailblaze/commit/1c42e5e1ed3dcd1482109fb68d1f292ddbc09ad6",
       "git:hexsha": "1c42e5e1ed3dcd1482109fb68d1f292ddbc09ad6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T16:25:51.253468+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/trailblaze/commit/1d35378de442567d9b3ac99ccbaf9d70c96cd439",
