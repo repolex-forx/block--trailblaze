@@ -1,0 +1,21 @@
+{
+  "org": "block",
+  "repo": "trailblaze",
+  "versions": [
+    {
+      "commit": "1c42e5e1ed3dcd1482109fb68d1f292ddbc09ad6",
+      "tag": "",
+      "parsed_at": "2026-11-09T16:25:51.254156+00:00"
+    },
+    {
+      "commit": "d97b97cf53e07a0b317d4303b6d1d4280dd0ce83",
+      "tag": "main",
+      "parsed_at": "2026-10-05T10:18:17.694104+00:00"
+    },
+    {
+      "commit": "c2593340be3aa524e54e03fb78f0eb8ef52ac03b",
+      "tag": "main",
+      "parsed_at": "2026-10-01T10:44:19.397941+00:00"
+    }
+  ]
+}
